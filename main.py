@@ -179,8 +179,7 @@ def get_valid_csv_file(default="movements.csv"):
         print(f"Ошибка: файл '{path}' должен существовать и иметь расширение .csv!")
 
 def main():
-    print("Feature 2: Modified functionality")
-    print("Feature 1: Added new functionality")
+    print("Change in original repo")
     print("=== Лабораторная работа №4. Классы ===")
     
     # Подсчет файлов в директории
