@@ -1,3 +1,4 @@
+# Изменение для лабораторной №5
 import os
 import csv
 from datetime import datetime
