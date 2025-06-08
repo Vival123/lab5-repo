@@ -180,6 +180,7 @@ def get_valid_csv_file(default="movements.csv"):
 
 def main():
     print("Changed in main branch")
+
     print("=== Лабораторная работа №4. Классы ===")
     
     # Подсчет файлов в директории
